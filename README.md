@@ -1,3 +1,6 @@
+--------------------------------------------------------------------------------------------------------------------
+In Russia
+
 # Привет! Я MrKhaimi 👋
 
 Разработчик в сфере кибербезопасности. Пишу программы на разных языках, делаю проекты с нуля.
@@ -16,5 +19,28 @@
 
 Это мои единственные аккаунты. Других TikTok-профилей у меня нет. Если кто-то пишет вам от моего имени с других аккаунтов — это мошенники.
 
+
+
+--------------------------------------------------------------------------------------------------------------------
+In Inglish
+
+# Hi! I'm MrKhaimi 👋
+
+Cybersecurity developer. I build programs from scratch in multiple programming languages.
+
+## 🚀 My projects
+
+- **[MagmaKey](https://github.com/MrKhaimi/MagmaKey)** — a password generator with lava animation. It doesn't store or send your passwords to third parties and works completely offline.
+
+## 📫 Where to find me
+
+- **TikTok (official):** [@mrkhaimi.magma](https://tiktok.com/@mrkhaimi.magma)
+- **TikTok (second):** [@magma.code](https://tiktok.com/@magma.code)
+- **Telegram:** [t.me/MrKhaimi](https://t.me/MrKhaimi)
+
+## ⚠️ Important
+
+These are my only accounts. I don't have any other TikTok profiles. If someone messages you on my behalf from a different account — it's a scammer.
+
 ---
-⭐ Если тебе нравятся мои проекты — ставь звёзды!
+⭐ If you like my projects, give them a star!
