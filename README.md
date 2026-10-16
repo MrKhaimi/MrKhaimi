@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет! Я MrKhaimi 👋
 
-<!--
-**MrKhaimi/MrKhaimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Разработчик в сфере кибербезопасности. Пишу программы на разных языках, делаю проекты с нуля.
 
-Here are some ideas to get you started:
+## 🚀 Мои проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[MagmaKey](https://github.com/MrKhaimi/MagmaKey)** — генератор паролей с лавовой анимацией. Не хранит и не отправляет пароли третьим лицам, работает без интернета.
+
+## 📫 Где меня найти
+
+- **TikTok (официальный):** [@mrkhaimi.magma](https://tiktok.com/@mrkhaimi.magma)
+- **TikTok (второй):** [@magma.code](https://tiktok.com/@magma.code)
+- **Telegram:** [t.me/MrKhaimi](https://t.me/MrKhaimi)
+
+## ⚠️ Важно
+
+Это мои единственные аккаунты. Других TikTok-профилей у меня нет. Если кто-то пишет вам от моего имени с других аккаунтов — это мошенники.
+
+---
+⭐ Если тебе нравятся мои проекты — ставь звёзды!
